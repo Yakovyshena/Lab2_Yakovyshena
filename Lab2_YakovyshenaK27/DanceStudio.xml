@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanceStudio>
+	<Dance
+		Style = "Contemporary"
+		Level = "beginner"
+		Day = "Monday"
+		Time = "18:00 - 19:00"
+		Teacher = "Коровниченко Таісія"
+		Hall = "E">
+	</Dance>
+	<Dance
+		Style = "Contemporary"
+		Level = "intermediate"
+		Day = "Wednesday"
+		Time = "20:00 - 21:00"
+		Teacher = "Хоменко Анастасія"
+		Hall = "E">
+	</Dance>
+	<Dance
+		Style = "Contemporary"
+		Level = "advanced"
+		Day = "Friday"
+		Time = "20:00 - 21:00"
+		Teacher = "Шашкін Влад"
+		Hall = "C">
+	</Dance>
+	<Dance
+		Style = "Hip-hop"
+		Level = "beginner"
+		Day = "Tuesday"
+		Time = "19:00 - 20:00"
+		Teacher = "Василевська Анастасія"
+		Hall = "A">
+	</Dance>
+	<Dance
+		Style = "Hip-hop"
+		Level = "intermediate"
+		Day = "Friday"
+		Time = "18:00 - 19:00"
+		Teacher = "Веселий Андрій"
+		Hall = "Q">
+	</Dance>
+	<Dance
+		Style = "Hip-hop"
+		Level = "advanced"
+		Day = "Monday"
+		Time = "19:00 - 20:00"
+		Teacher = "Путілов Олександр"
+		Hall = "C">
+	</Dance>
+	<Dance
+		Style = "Jazz-funk"
+		Level = "beginner"
+		Day = "Tuesday"
+		Time = "20:00 - 21:00"
+		Teacher = "Ткаченко Микита"
+		Hall = "D">
+	</Dance>
+	<Dance
+		Style = "Jazz-funk"
+		Level = "intermediate"
+		Day = "Friday"
+		Time = "19:00 - 20:00"
+		Teacher = "Ярулліна Ольга"
+		Hall = "E">
+	</Dance>
+	<Dance
+		Style = "Jazz-funk"
+		Level = "advanced"
+		Day = "Wednesday"
+		Time = "19:00 - 20:00"
+		Teacher = "Гонтарчук Вікторія"
+		Hall = "D">
+	</Dance>
+	<Dance
+		Style = "Vogue"
+		Level = "beginner"
+		Day = "Monday"
+		Time = "20:00 - 21:00"
+		Teacher = "Буйний Микита"
+		Hall = "D">
+	</Dance>
+	<Dance>
+		Style = "Vogue"
+		Level = "intermediate"
+		Day = "Wednesday"
+		Time = "18:00 - 19:00"
+		Teacher = "Ізмалкова Даша"
+		Hall = "Q"
+	</Dance>
+	<Dance
+		Style = "Vogue"
+		Level = "advanced"
+		Day = "Thursday"
+		Time = "19:00 - 20:00"
+		Teacher = "Міцкевич Юрій"
+		Hall = "A">
+	</Dance>
+	<Dance
+		Style = "Heels"
+		Level = "beginner"
+		Day = "Thursday"
+		Time = "18:00 - 19:00"
+		Teacher = "Лелекова Ольга"
+		Hall = "B">
+	</Dance>
+	<Dance
+		Style = "Heels"
+		Level = "intermediate"
+		Day = "Thursday"
+		Time = "20:00 - 21:00"
+		Teacher = "Олійник Анастасія"
+		Hall = "D">
+	</Dance>
+	<Dance
+		Style = "Heels"
+		Level = "advanced"
+		Day = "Tuesday"
+		Time = "18:00 - 19:00"
+		Teacher = "Олійник Анастасія"
+		Hall = "D">
+	</Dance>
+</DanceStudio>

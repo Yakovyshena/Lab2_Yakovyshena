@@ -1,0 +1,11 @@
+C:\Users\test\source\repos\Lab2_YakovyshenaK27\bin\Debug\Lab2_YakovyshenaK27.exe.config
+C:\Users\test\source\repos\Lab2_YakovyshenaK27\bin\Debug\Lab2_YakovyshenaK27.exe
+C:\Users\test\source\repos\Lab2_YakovyshenaK27\bin\Debug\Lab2_YakovyshenaK27.pdb
+C:\Users\test\source\repos\Lab2_YakovyshenaK27\obj\Debug\Lab2_YakovyshenaK27.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\Lab2_YakovyshenaK27\obj\Debug\Lab2_YakovyshenaK27.csproj.SuggestedBindingRedirects.cache
+C:\Users\test\source\repos\Lab2_YakovyshenaK27\obj\Debug\Lab2_YakovyshenaK27.DanceStudioForm.resources
+C:\Users\test\source\repos\Lab2_YakovyshenaK27\obj\Debug\Lab2_YakovyshenaK27.Properties.Resources.resources
+C:\Users\test\source\repos\Lab2_YakovyshenaK27\obj\Debug\Lab2_YakovyshenaK27.csproj.GenerateResource.cache
+C:\Users\test\source\repos\Lab2_YakovyshenaK27\obj\Debug\Lab2_YakovyshenaK27.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\Lab2_YakovyshenaK27\obj\Debug\Lab2_YakovyshenaK27.exe
+C:\Users\test\source\repos\Lab2_YakovyshenaK27\obj\Debug\Lab2_YakovyshenaK27.pdb
